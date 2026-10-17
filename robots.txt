@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /go/
+Disallow: /admin
+Disallow: /account
+Disallow: /for-you
+Disallow: /onboarding
+Disallow: /search
+Disallow: /mock-retailer
+Disallow: /mock-cdn
+
+Sitemap: https://tristanmiller-dot.github.io/salestore-demo/sitemap.xml
